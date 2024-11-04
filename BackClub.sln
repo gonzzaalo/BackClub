@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackClub", "BackClub.csproj", "{4A9A912D-8CC3-465B-AB52-EA423C5AB46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9A912D-8CC3-465B-AB52-EA423C5AB46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9A912D-8CC3-465B-AB52-EA423C5AB46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9A912D-8CC3-465B-AB52-EA423C5AB46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9A912D-8CC3-465B-AB52-EA423C5AB46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91C0AE3-48BF-47BD-AEC7-6BC635FACC2F}
+	EndGlobalSection
+EndGlobal
